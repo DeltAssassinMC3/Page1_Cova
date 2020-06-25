@@ -1,0 +1,88 @@
+@import url('../../../App.css');
+@import url('../../../index.css');
+
+
+// .home .header {
+//   background-image: url('../../../../public/static/logo_nav2.png') ;
+// }
+
+.header {
+  height: 100vh;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+.header:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #000;
+  opacity: .65;
+  z-index: 2;
+}
+.header .v-middle {
+  z-index: 11;
+}
+.header .caption {
+  text-align: center;
+  color: #fff;
+  margin-top: 50px;
+}
+.header .caption h5 {
+  font-size: 50px;
+  font-weight: 800;
+  margin-bottom: 10px;
+  padding-right: 50px;
+}
+.header .caption h1 {
+  font-weight: 200;
+}
+.header .caption h1 b {
+  font-weight: 400;
+}
+.header .caption .social-icon {
+  margin-top: 30px;
+}
+.header .caption .social-icon span {
+  font-size: 14px;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.header .caption .blc {
+  padding-right: 15px;
+}
+
+.left-svg{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: none;
+    z-index: 99;
+}
+
+.right-svg{
+    position: absolute;
+    bottom: 0;
+    right: 0 !important;
+    background: none;
+    z-index: 99;
+    left: auto;
+}
+
+.left-svg path, .right-svg path {
+    fill: #fff;
+    stroke: #fff;
+    stroke-width: 4;
+}
+
+.white-bg .left-svg path, .white-bg .right-svg path {
+    stroke: #f2f2f2;
+    fill: #f2f2f2;
+}

@@ -1,0 +1,35 @@
+@import url('../../../App.css');
+@import url('../../../index.css');
+
+.services .item {
+    padding: 50px 20px;
+    background: #fff;
+    -webkit-box-shadow: 0px 10px 30px -8px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 10px 30px -8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    border-radius: 5px;
+  }
+  .services .item:hover .icon {
+    background: #1c1c1c;
+    color: #eee;
+  }
+  .services .item .icon {
+    font-size: 30px;
+    margin-bottom: 20px;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    background: #f4f4f4;
+    border-radius: 50%;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+  }
+  .services .item h6 {
+    margin-bottom: 15px;
+    font-weight: 800;
+    font-size: 18px;
+  }
+  .services .item p {
+    word-spacing: 2px;
+    font-size: 14px;
+  }

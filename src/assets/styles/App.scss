@@ -1,20 +1,5 @@
 /* @import url('../styles/GeneralStylos.scss'); */
-/*@import url('../styles/GeneralStylos.scss'); */
-
-@import url('../src/index.css');
-
-.appWhatsapp {
-  position: fixed;
-  right: 26px;
-  bottom: 118px;
-  width: 60px;
-  z-index: 1000;
-}
-
-appWhatsapp img{
-  width: 100%;
-  height: auto;
-}
+@import url('../styles/GeneralStylos.scss');
 
 .header {
   height: 100vh;

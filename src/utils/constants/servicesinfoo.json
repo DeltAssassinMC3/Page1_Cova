@@ -1,0 +1,58 @@
+{
+  "infoServices": [
+    {
+      "classColumn": "col-md-4",
+      "classItem": "item",
+      "icon": "icon",
+      "classSvg": "fa fa-file",
+      "ariaHidden": true,
+      "tittleTool": "Consultoría",
+      "tittleDescription": "Ofrecemos un servicio de consultoría en tecnologías de la información, siempre adaptándonos a las necesidades de tu negocio."
+    },
+    {
+      "classColumn": "col-md-4",
+      "classItem": "item",
+      "icon": "icon",
+      "classSvg": "fa fa-users",
+      "ariaHidden": true,
+      "tittleTool": "Outsourcing",
+      "tittleDescription": "Cubrimos tus necesidades de capital humano. Nos enfocamos en los requerimentos de cada uno de nuestros clientes."
+    },
+    {
+      "classColumn": "col-md-4",
+      "classItem": "item",
+      "icon": "icon",
+      "classSvg": "fa fa-cogs",
+      "ariaHidden": true,
+      "tittleTool": "Soporte",
+      "tittleDescription": " Realizamos soporte en las herramientas que ofrecen nuestros partners Intelisis, Qlik y Pentaho."
+    },
+    {
+      "classColumn": "col-md-4",
+      "classItem": "item",
+      "icon": "icon",
+      "classSvg": "fa fa-terminal",
+      "ariaHidden": true,
+      "tittleTool": "Desarrollo Intelisis",
+      "tittleDescription": " Contamos con un amplio equipo de expertos en desarrollo e implementación de software en Intelisis ERP. "
+    },
+    {
+      "classColumn": "col-md-4",
+      "classItem": "item",
+      "icon": "icon",
+      "classSvg": "fa fa-laptop",
+      "ariaHidden": true,
+      "tittleTool": "Desarrollo Web",
+      "tittleDescription": " Desarrollamos en diferentes lenguajes, JAVA, PHP, C++. "
+    },
+    {
+      "classColumn": "col-md-4",
+      "classItem": "item",
+      "icon": "icon",
+      "classSvg": "fa fa-mobile",
+      "ariaHidden": true,
+      "tittleTool": "Desarrollo Móvil",
+      "tittleDescription": " Generamos desarrollos móviles para iOS y Android. "
+    }
+  ]
+}

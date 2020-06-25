@@ -1,5 +1,4 @@
 /* @import url('../styles/App.scss'); */
-@import url('../src/App.css');
 body {
     font-family: 'Poppins', sans-serif;
     color: #343434;
@@ -140,15 +139,3 @@ body {
     color: #343434 !important;
   }
   
-  .appWhatsapp {
-    position: fixed;
-    right: 26px;
-    bottom: 118px;
-    width: 60px;
-    z-index: 1000;
-  }
-  
-  .appWhatsapp img{
-    width: 100%;
-    height: auto;
-  }

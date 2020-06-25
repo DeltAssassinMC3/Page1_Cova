@@ -5,7 +5,7 @@ header('Content-Type: text/html; charset=UTF-8');
 
 if(isset($_POST['email'])) {
 
-$email_to = "ventas@covalu.com";
+$email_to = "rarteaga@covalu.com";
 $email_subject = "Contacto desde el sitio web";
 
 if(!isset($_POST['name']) ||

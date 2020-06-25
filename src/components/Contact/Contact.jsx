@@ -14,7 +14,7 @@ const Contact = () => {
             </div>
             <form
              /* action= {mail}  */
-              action="../public/mail.php"
+              action="./mail.php"
               method="post"
               className="form"
               id="contact-form"

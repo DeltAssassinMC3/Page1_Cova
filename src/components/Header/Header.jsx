@@ -9,7 +9,7 @@ const Header = () => {
   id="home"
   className="header"
   data-scroll-index={0}
-  style={{ backgroundImage: 'url("../../../../../static/bg.jpg")' }}
+  style={{ backgroundImage: 'url("./static/bg.jpg")' }}
   data-stellar-background-ratio="0.8">
   <svg
   

@@ -1,7 +1,9 @@
 import React from 'react';
 import '../../assets/styles/components/Navbar.scss';
 
+
 const Navbar = () => {
+ 
  
  return( <nav className="navbar navbar-default">
   <div className="container">
@@ -14,8 +16,9 @@ const Navbar = () => {
         <span className="icon-bar" > </span>
         <span className="icon-bar" > </span>
       </button>
- 
-      <a className="logo" href="#"><img src="../../../../../static/logo_nav2.png"/></a>
+      <a class="logo" href="#">
+        <img src="./static/logo_nav2.png"/></a>
+      {/* <img src={logo} alt="logo" /> */}
     </div>
     <div className="collapse navbar-collapse" id="nav-icon-collapse">
 

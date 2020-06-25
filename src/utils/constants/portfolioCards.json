@@ -4,7 +4,7 @@
       "alingText": "gallery text-center",
       "classColumn": "col-md-4 col-sm-6 items partner",
       "classItem": "item-img",
-      "srcImage": "../../../../../static/portfolio/1.jpg",
+      "srcImage": "./static/portfolio/1.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -13,7 +13,7 @@
       "tittleDescription": "Integra, coordina y automatiza todas las áreas y los procesos de tu negocio. Se adapta al giro de tu empresa o negocio.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "../../../../../static/portfolio/1.jpg",
+      "srcImage": "./static/portfolio/1.jpg",
       "tittleDescription": "Integra, coordina y automatiza todas las áreas y los procesos de tu negocio. Se adapta al giro de tu empresa o negocio.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true
@@ -21,7 +21,7 @@
     {
       "classColumn": "col-md-4 col-sm-6 items partner",
       "classItem": "item-img",
-      "srcImage": "./../../../../static/portfolio/2.jpg",
+      "srcImage": "./static/portfolio/2.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -30,7 +30,7 @@
       "tittleDescription": "Te permite convertir datos en conocimiento; busca y analiza visualmente la información de tu empresa o negocio.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "./../../../../static/portfolio/2.jpg",
+      "srcImage": "./static/portfolio/2.jpg",
       "tittleDescription": "Te permite convertir datos en conocimiento; busca y analiza visualmente la información de tu empresa o negocio.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true
@@ -38,7 +38,7 @@
     {
       "classColumn": "col-md-4 col-sm-6 items partner penta",
       "classItem": "item-img",
-      "srcImage": "./../../../../static/portfolio/3.jpg",
+      "srcImage": "./static/portfolio/3.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -47,7 +47,7 @@
       "tittleDescription": "Es una herramienta de extracción de datos. Transforma estos datos y cárgalos en otro sitio.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "./../../../../static/portfolio/3.jpg",
+      "srcImage": "./static/portfolio/3.jpg",
       "tittleDescription": "Es una herramienta de extracción de datos. Transforma estos datos y cárgalos en otro sitio.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true
@@ -56,7 +56,7 @@
     {
       "classColumn": "col-md-4 col-sm-6 items qlik",
       "classItem": "item-img",
-      "srcImage": "./../../../../static/portfolio/QLIK/QlikNP.jpg",
+      "srcImage": "./static/portfolio/QLIK/QlikNP.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -65,7 +65,7 @@
       "tittleDescription": "Le permite crear informes a partir de sus documentos de Qlikview.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "./../../../../static/portfolio/QLIK/QlikNP.jpg",
+      "srcImage": "./static/portfolio/QLIK/QlikNP.jpg",
       "tittleDescription": "Le permite crear informes a partir de sus documentos de Qlikview.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true
@@ -73,7 +73,7 @@
     {
       "classColumn": "col-md-4 col-sm-6 items qlik",
       "classItem": "item-img",
-      "srcImage": "./../../../../static/portfolio/QLIK/QlikSense.jpg",
+      "srcImage": "./static/portfolio/QLIK/QlikSense.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -82,7 +82,7 @@
       "tittleDescription": "Busque y explore, libremente, entre todos sus datos y cambie de forma instantánea los análisis cuando surjan ideas nuevas.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "./../../../../static/portfolio/QLIK/QlikSense.jpg",
+      "srcImage": "./static/portfolio/QLIK/QlikSense.jpg",
       "tittleDescription": "Busque y explore, libremente, entre todos sus datos y cambie de forma instantánea los análisis cuando surjan ideas nuevas.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true
@@ -90,7 +90,7 @@
     {
       "classColumn": "col-md-4 col-sm-6 items qlik",
       "classItem": "item-img",
-      "srcImage": "./../../../../static/portfolio/QLIK/QlikView.jpg",
+      "srcImage": "./static/portfolio/QLIK/QlikView.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -99,7 +99,7 @@
       "tittleDescription": "Analiza la información que tu negocio genera y toma decisiones con base en los reportes de tu negocio.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "./../../../../static/portfolio/QLIK/QlikView.jpg",
+      "srcImage": "./static/portfolio/QLIK/QlikView.jpg",
       "tittleDescription": "Analiza la información que tu negocio genera y toma decisiones con base en los reportes de tu negocio.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true
@@ -107,7 +107,7 @@
     {
       "classColumn": "col-md-4 col-sm-6 items qlik",
       "classItem": "item-img",
-      "srcImage": "./../../../../static/portfolio/QLIK/QlikGeo.jpg",
+      "srcImage": "./static/portfolio/QLIK/QlikGeo.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -116,7 +116,7 @@
       "tittleDescription": "Con esta herramienta puede generar mapas que le proporcionen un contexto visual para tomar decisiones correctas en torno a su ubicación.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "./../../../../static/portfolio/QLIK/QlikGeo.jpg",
+      "srcImage": "./static/portfolio/QLIK/QlikGeo.jpg",
       "tittleDescription": "Con esta herramienta puede generar mapas que le proporcionen un contexto visual para tomar decisiones correctas en torno a su ubicación.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true
@@ -125,7 +125,7 @@
     {
       "classColumn": "col-md-4 col-sm-6 items intelisis",
       "classItem": "item-img",
-      "srcImage:": "./../../../../static/portfolio/INTELISIS/Automotriz.jpg",
+      "srcImage:": "./static/portfolio/INTELISIS/Automotriz.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -134,7 +134,7 @@
       "tittleDescription": "Administración, venta de unidades, post-venta, refacciones.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "./../../../../static/portfolio/INTELISIS/Automotriz.jpg",
+      "srcImage": "./static/portfolio/INTELISIS/Automotriz.jpg",
       "tittleDescription": "Administración, venta de unidades, post-venta, refacciones.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true
@@ -142,7 +142,7 @@
     {
       "classColumn": "col-md-4 col-sm-6 items intelisis",
       "classItem": "item-img",
-      "srcImage:": "./../../../../static/portfolio/INTELISIS/Inmobiliaria.jpg",
+      "srcImage:": "./static/portfolio/INTELISIS/Inmobiliaria.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -151,7 +151,7 @@
       "tittleDescription": "Proyectos, contratos, construcción, administración de inmuebles, recursos humanos.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "./../../../../static/portfolio/INTELISIS/Inmobiliaria.jpg",
+      "srcImage": "./static/portfolio/INTELISIS/Inmobiliaria.jpg",
       "tittleDescription": "Proyectos, contratos, construcción, administración de inmuebles, recursos humanos.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true
@@ -159,7 +159,7 @@
     {
       "classColumn": "col-md-4 col-sm-6 items intelisis",
       "classItem": "item-img",
-      "srcImage:": "./../../../../static/portfolio/INTELISIS/manufactura.jpg",
+      "srcImage:": "./static/portfolio/INTELISIS/manufactura.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -168,7 +168,7 @@
       "tittleDescription": "Inventario cero, proceso WIP, stock, productividad, mantenimiento preventivo.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "./../../../../static/portfolio/INTELISIS/manufactura.jpg",
+      "srcImage": "./static/portfolio/INTELISIS/manufactura.jpg",
       "tittleDescription": "Inventario cero, proceso WIP, stock, productividad, mantenimiento preventivo.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true
@@ -176,7 +176,7 @@
     {
       "classColumn": "col-md-4 col-sm-6 items intelisis",
       "classItem": "item-img",
-      "srcImage:": "./../../../../static/portfolio/INTELISIS/mayoristas.jpg",
+      "srcImage:": "./static/portfolio/INTELISIS/mayoristas.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -185,7 +185,7 @@
       "tittleDescription": "Facturación, embarques, inventarios, compras nacionales y de importación.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "./../../../../static/portfolio/INTELISIS/mayoristas.jpg",
+      "srcImage": "./static/portfolio/INTELISIS/mayoristas.jpg",
       "tittleDescription": "Facturación, embarques, inventarios, compras nacionales y de importación.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true
@@ -193,7 +193,7 @@
     {
       "classColumn": "col-md-4 col-sm-6 items intelisis",
       "classItem": "item-img",
-      "srcImage:": "./../../../../static/portfolio/INTELISIS/minorista.jpg",
+      "srcImage:": "./static/portfolio/INTELISIS/minorista.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -202,7 +202,7 @@
       "tittleDescription": "Distribución, POS, pedidos, reportes.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "./../../../../static/portfolio/INTELISIS/minorista.jpg",
+      "srcImage": "./static/portfolio/INTELISIS/minorista.jpg",
       "tittleDescription": "Distribución, POS, pedidos, reportes.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true
@@ -210,7 +210,7 @@
     {
       "classColumn": "col-md-4 col-sm-6 items intelisis",
       "classItem": "item-img",
-      "srcImage:": "./../../../../static/portfolio/INTELISIS/RH.jpg",
+      "srcImage:": "./static/portfolio/INTELISIS/RH.jpg",
       "altImage": "image",
       "imageItem": "item-img-overlay",
       "positionText": "overlay-info v-middle text-center",
@@ -219,7 +219,7 @@
       "tittleDescription": "Recursos humanos, tiempos y materiales, inventarios, proyectos, gastos, administración.",
       "classIcon": "icons",
       "iconLink": "icon link",
-      "srcImage": "./../../../../static/portfolio/INTELISIS/RH.jpg",
+      "srcImage": "./static/portfolio/INTELISIS/RH.jpg",
       "tittleDescription": "Recursos humanos, tiempos y materiales, inventarios, proyectos, gastos, administración.",
       "classSvg": "fa fa-search-plus",
       "ariaHidden": true

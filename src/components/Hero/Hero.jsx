@@ -40,7 +40,7 @@ const Hero = () => {
        
         <div className="col-md-5">
           <div className="mb-30">
-            <img src="../../../../../static/nosotros.jpg" alt="" />
+            <img src="./static/nosotros.jpg" alt="" />
           </div>
         </div>
       </div>

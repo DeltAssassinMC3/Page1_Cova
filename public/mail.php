@@ -33,6 +33,6 @@ $headers = 'From: '.$email_from."\r\n".
 mail($email_to, $email_subject, $email_message, $headers);
 
 echo "<script type='text/javascript'>alert('Tu mensaje ha sido enviado exitosamente');</script>";
-echo "<script type='text/javascript'>window.location.href='http://covalu.com';</script>";
+echo "<script type='text/javascript'>window.location.href='https://page1-cova-fsvb923gi.vercel.app';</script>";
 }
 ?>
